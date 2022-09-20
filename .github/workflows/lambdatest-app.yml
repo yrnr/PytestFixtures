@@ -36,4 +36,4 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest -v --capture=tee-sys --html=lambdatest_report.html
+        pytest -v --capture=tee-sys --html=lambdatest_report.html -k _is_even
