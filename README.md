@@ -1,5 +1,5 @@
 # PyTest Features - Fixtures, Params, Scope
-Learn to use the following features of PyTest
+Learn to use the following features of PyTest:
 
 Fixtures
 
