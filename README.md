@@ -2,11 +2,17 @@
 Learn to use the following features of PyTest
 
 Fixtures
+
 Params
+
 Scope
+
 conftest.py
+
 Auto-use fixtures
+
 Execution-order of fixtures
+
 
 # Why PyTest ?
 Minimal amount of boilerplate, rich features, and a growing number of plugins.
